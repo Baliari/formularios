@@ -1,0 +1,5 @@
+F:\Walmart\Gestion2\Gestion2\bin\Gestion2.dll
+F:\Walmart\Gestion2\Gestion2\bin\Gestion2.pdb
+F:\Walmart\Gestion2\Gestion2\obj\Debug\Gestion2.dll
+F:\Walmart\Gestion2\Gestion2\obj\Debug\Gestion2.pdb
+F:\Walmart\Gestion2\Gestion2\obj\Debug\Gestion2.csprojResolveAssemblyReference.cache

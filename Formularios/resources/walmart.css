@@ -1,0 +1,148 @@
+﻿body
+{
+    margin: 0px;
+}
+.header
+{
+    height: 80px;
+    background-image: url('walmart-logo.jpg');
+    background-repeat: no-repeat;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #3366FF;
+}
+.tittle
+{
+    font-family: 'Times New Roman' , Times, serif;
+    font-size: xx-large;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 25px;
+    color: #000080;
+    position: absolute;
+    width:100%;
+}
+.formulario
+{
+    padding: 1em 2em 1em 2em;
+    display: block;
+    width: 900px;
+    height: 700px;
+    margin: 6em auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-border-radius: 2em;
+    -moz-border-radius: 2em;
+    border-radius: 2em;
+    border: 5px solid #eee;
+    box-shadow: 7px 8px 49px rgba(0, 0, 0, 0.3);
+    background-color: #CCCCFF;
+}
+
+ .propertiesmenu
+{
+    margin-right :1em;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;
+    border: thin solid #0000FF; 
+    box-shadow: 7px 8px 49px rgba(0, 0, 0, 0.3);
+    width: 100%; 
+    background-color: #FFFFFF;
+}
+    
+.designermenu
+{
+    margin-left :1em;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;
+    border: thin solid #0000FF; 
+    box-shadow: 7px 8px 49px rgba(0, 0, 0, 0.3);
+    width: 100%; 
+    background-color: #FFFFFF;
+    }
+ .designermenutitle
+ {
+     font-family: Aharoni; 
+     font-size: medium; 
+     vertical-align: middle; 
+     text-align: center; 
+     } 
+ .designmenuicon
+ {
+     text-align: center;
+     }
+     
+ .designmenutext
+     {
+        font-family: Cambria; 
+        font-size: medium; 
+        text-align: left;
+     }
+   
+ .col2
+ {  
+    width: 49%;
+    min-width: 49%;
+    }
+    
+ .col1
+ {
+    width: 98%;
+    min-width: 98%;
+     }  
+     
+ .divcontrol
+{
+    border: thin dashed #C0C0C0;
+    float: left;
+    /*height:2em;*/
+    vertical-align: middle;
+    display: table-cell;
+    padding-bottom:10px;
+    padding-top: 10px;
+
+}
+.divcontrol:hover
+{
+    border: thin dashed #000066;
+}
+.divcontrolselected
+{
+    border: thin solid #006600;
+    float: left;
+    /*height: 2em;*/
+    vertical-align: middle;
+    padding-bottom:10px;
+    padding-top: 10px;
+    box-shadow: 7px 8px 49px rgba(0, 0, 0, 0.3);
+}
+
+.controlTitulo
+{
+    border-style: solid;
+    border-color: 0; 
+    border-width: 0;
+    background-color: #CCCCFF;
+    font-size: medium;
+ }
+
+.controlCombo
+{
+    border-style: solid;
+    border-color: 0; 
+    border-width: 1;
+    background-color: #F0F0F0;
+    font-size: medium;
+ }
+ 
+ .controlCalendar
+{
+    border-style: solid;
+    border-color: 0; 
+    border-width: 0;
+    background-color: #FFFFFF;
+    font-size: medium;
+ }
